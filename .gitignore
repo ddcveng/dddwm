@@ -1,3 +1,4 @@
 *.o
 dwm
 dwmswallow
+config.h
